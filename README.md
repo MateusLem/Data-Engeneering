@@ -5,7 +5,10 @@
 <details>
 <summary><a href="#English">English</a></summary>
 
+* <a href=".\project\eng\CheckPoint.ipynb">Project</a>
+
 * [Checkpoint](#Checkpoint-ENG)
+
 
     <details>
     <summary><a href="#More-information-about-his-project">More information about his project</a></summary>
@@ -28,6 +31,7 @@
 
 * [Checkpoint](#Checkpoint-PT)
 
+* <a href=".\project\pt-br\CheckPoint.ipynb">Projeto</a>
 
     <details>
     <summary><a href="#Mais-informações-sobre-este-projeto">Mais informações sobre este projeto</a></summary>
