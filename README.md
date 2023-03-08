@@ -18,9 +18,11 @@
 
     <details>
     <summary><a href="#Contact-Me">Contact-Me</a></summary>
+        
     * [LinkedIn](#LinkedIn)
     * [Email](#Email)
     </details>
+
 </details>
 
 <br>
