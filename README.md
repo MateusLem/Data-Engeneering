@@ -63,7 +63,7 @@ But what is this project about?
 ## Checkpoint-ENG
 
 
-This project is an evaluation to test my capabilities in data analysis and treatment, through a DataFrage provided by the teacher.
+This project is an evaluation to test my capabilities in data analysis and treatment, through a DataFrame provided by the teacher.
 
 Besides that, I also need to develop a predictive model to estimate the value of an imaginary property based on descriptions given in the material.
 
